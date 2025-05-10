@@ -1,1 +1,1 @@
-# SENATOROVAI-python-from-zero-to-open-source-stepik
+# stepik https://stepik.org/a/193773
